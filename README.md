@@ -11,7 +11,7 @@
 
 ## 许可
 
-> Copyright (C) guolin, Suzhou Quxiang Inc. Open source codes for study only.
+> Copyright (C) liuhaiyang, Ganzhou Quxiang Inc. Open source codes for study only.
 > Do not use for commercial purpose.
 >
 > Licensed under the Apache License, Version 2.0 (the "License");
